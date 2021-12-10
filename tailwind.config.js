@@ -27,7 +27,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: (theme) => ({
-        'mask-image': "url('/mask_group_7.jpg')"
+        'mask-image': "url('./images/mask_group_7.jpg')"
       }),
     },
   },

@@ -17791,7 +17791,7 @@ video {
 }
 
 .bg-mask-image {
-  background-image: url('/mask_group_7.jpg');
+  background-image: url('./images/mask_group_7.jpg');
 }
 
 .from-transparent {
@@ -49375,7 +49375,7 @@ video {
   }
 
   .sm\:bg-mask-image {
-    background-image: url('/mask_group_7.jpg');
+    background-image: url('./images/mask_group_7.jpg');
   }
 
   .sm\:from-transparent {
@@ -80607,7 +80607,7 @@ video {
   }
 
   .md\:bg-mask-image {
-    background-image: url('/mask_group_7.jpg');
+    background-image: url('./images/mask_group_7.jpg');
   }
 
   .md\:from-transparent {
@@ -111839,7 +111839,7 @@ video {
   }
 
   .lg\:bg-mask-image {
-    background-image: url('/mask_group_7.jpg');
+    background-image: url('./images/mask_group_7.jpg');
   }
 
   .lg\:from-transparent {
@@ -143071,7 +143071,7 @@ video {
   }
 
   .xl\:bg-mask-image {
-    background-image: url('/mask_group_7.jpg');
+    background-image: url('./images/mask_group_7.jpg');
   }
 
   .xl\:from-transparent {
@@ -174303,7 +174303,7 @@ video {
   }
 
   .\32xl\:bg-mask-image {
-    background-image: url('/mask_group_7.jpg');
+    background-image: url('./images/mask_group_7.jpg');
   }
 
   .\32xl\:from-transparent {
