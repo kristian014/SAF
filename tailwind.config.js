@@ -28,12 +28,16 @@ module.exports = {
     extend: {
       backgroundImage: (theme) => ({
         'mask-image': "url('./images/mask_group_7.jpg')",
+        'hygiene': "url('./images/hygiene_thumb_3cef315143ebf7d0d5db9f2f5dfc58eb.jpg')",
+        'apparel_bottom_design': "url('./svg/apparel_bottom_design.svg')",
 
       }),
 
-      svgBackgroundImage: (theme) => ({
-        'rectangle': "url('./svg/rectangle.svg')",
-      }),
+      colors: {
+        'lime': '#C7BD2B',
+        'green': '#4DB61F',
+      },
+
     },
   },
   variants: {
