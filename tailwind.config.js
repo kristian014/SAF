@@ -36,6 +36,7 @@ module.exports = {
       colors: {
         'lime': '#C7BD2B',
         'green': '#4DB61F',
+        'black': '#242932',
       },
 
     },
