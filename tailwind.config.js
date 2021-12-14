@@ -37,6 +37,7 @@ module.exports = {
         'lime': '#C7BD2B',
         'green': '#4DB61F',
         'black': '#242932',
+        'light_blue': '#009FE3',
       },
 
     },
